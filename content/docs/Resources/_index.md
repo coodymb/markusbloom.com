@@ -1,7 +1,8 @@
 ---
-weight: 3
-bookCollapseSection: true
+weight: 2
+bookFlatSection: true
 title: "Resources"
 ---
 
 Platzhalter
+
