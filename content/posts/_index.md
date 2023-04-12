@@ -2,8 +2,6 @@
 menu:
   after:
     name: blog
-    weight: 5
-title: Blog
+    weight: 1
+title: Weblog
 ---
-
-index file von posts mit type docs, was man eventuell rausnehmen kann
