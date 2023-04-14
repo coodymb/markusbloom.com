@@ -2,6 +2,7 @@ baseURL = 'https://markusbloom.com/'
 languageCode = 'en-us'
 title = 'Markus Bloom'
 theme = 'hugo-book'
+enableRobotsTXT = true
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
