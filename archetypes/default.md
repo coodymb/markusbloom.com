@@ -2,11 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 description: "Description Text"
 date: {{ .Date }}
-# categories:
-# - categorie
-# tags:
-# - tag1
-# - tag2
+# categories: ['', '']
+# tags: ['', '']
 # weight: 1
 # bookHidden: false
 # aliases: ["/first"]

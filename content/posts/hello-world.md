@@ -1,12 +1,14 @@
 ---
 date: 2023-04-11
-title: Hello, world!
-categories: ['meditation', 'documentation']
-tags: ['testTag1', 'testTag2']
+title: 'Hello, world!'
+description: 'The first step of a fantastic journey.'
+categories: ['journal', 'meditations']
+tags: ['admin']
 ---
 
-## Mit
+# Hello, world!
 
-noch einer Überschrift
+A Blog in two categories:
 
-Aber warum sind meine Tags nicht hier?
+1. Journal: Things that happened
+2. [Meditations](https://en.wikipedia.org/wiki/Meditations): Thoughts
