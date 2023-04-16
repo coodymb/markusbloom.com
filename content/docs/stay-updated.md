@@ -7,8 +7,22 @@ menu:
   after:
     name: Stay Updated
     weight: 2
-description: ''
+description: 'To stay updated on all the projects and stories, they will be summarised in a monthly newsletter sent through email, discord, and RSS.'
 aliases: ["/newsletter"]
 ---
 
 # Stay Updated
+
+Every month, I'll write a little letter that summarises
+
+Same message thourgh your preferred channel
+
+## Email
+
+Don't forget to confirm your signup by clicking the link in the email you'll receive.
+
+{{< newsletterSignup >}}
+
+## Discord
+
+## RSS
