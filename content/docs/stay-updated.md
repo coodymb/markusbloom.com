@@ -11,18 +11,20 @@ description: 'To stay updated on all the projects and stories, they will be summ
 aliases: ["/newsletter"]
 ---
 
-# Stay Updated
+A monthly summary of the stories' progress, new blog posts, and random thoughts. Pick your preferred channel:
 
-Every month, I'll write a little letter that summarises
+## Email Newsletter
 
-Same message thourgh your preferred channel
-
-## Email
-
-Don't forget to confirm your signup by clicking the link in the email you'll receive.
+The classic. Remember to click the confirmation link in the email.
 
 {{< newsletterSignup >}}
 
 ## Discord
 
+(new experiment)
+
+Be the first to join [here](https://discord.gg/EWp7Zm3DGU).
+
 ## RSS
+
+The RSS feed is [here](/index.xml).

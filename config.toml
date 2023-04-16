@@ -4,6 +4,9 @@ title = 'Markus Bloom'
 theme = 'hugo-book'
 enableRobotsTXT = true
 
+[author]
+  name = 'Markus Bloom'
+
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
 
