@@ -1,0 +1,16 @@
+<!-- Von https://discourse.gohugo.io/t/shortcode-that-lists-all-pages-with-same-tag-but-excludes-current-one/40450 -->
+{{ with $tag := .Get 0 }}
+  {{ with site.RegularPages.RelatedTo (keyVals "tags" $tag) }}
+    {{ with where . "Permalink" "ne" $.Page.Permalink }}
+      <p>Related pages:
+        <ul>
+          {{ range . }}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+        </ul>
+      </p>
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a single positional parameter. See %s" .Name .Position }}
+{{ end }}

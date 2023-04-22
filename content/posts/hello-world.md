@@ -1,7 +1,7 @@
 ---
 date: 2023-04-11
-title: 'Hello, world!'
-description: 'The first step of a fantastic journey.'
+title: "Hello, world!"
+description: "The first step of a fantastic journey."
 categories: ['journal', 'meditations']
 tags: ['admin']
 ---

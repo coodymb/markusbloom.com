@@ -4,6 +4,4 @@ description: "Documenting and telling the story of how I turn my ideas into real
 type: docs
 ---
 
-# 🌊
-
-Welcome
+Documenting the progress towards my life's goals.

@@ -2,6 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 description: "Description Text"
 date: {{ .Date }}
+# slug: (includes /docs/ or /posts/)
+# url:
 # categories: ['', '']
 # tags: ['', '']
 # weight: 1
