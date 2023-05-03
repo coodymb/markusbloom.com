@@ -56,7 +56,7 @@ Not complete ... [to be continued](/stay-updated/)
 - [macOS](https://www.apple.com/macos/)
 - [Debian](https://www.debian.org)
 
-## Business online - name
+## Startup stuff
 
 ### Domain Registrar
 

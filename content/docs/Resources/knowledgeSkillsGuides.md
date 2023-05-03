@@ -5,6 +5,6 @@ date: 2023-04-16T08:17:53-04:00
 weight: 1
 ---
 
-# Necessary Knowledge, Skills, and Guides
+# Necessary knowledge, skills, and guides
 
 can all be found at https://flowatoms.com. Over here, I'll tell stories (e.g. [how to build Flow Atoms](/docs/stories/flowatoms/)), not repeat the same guides others have already written.

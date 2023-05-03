@@ -4,6 +4,7 @@ description: "A collection of all my ideas. Business ideas, startups, new produc
 date: 2023-04-16T08:17:53-04:00
 weight: 3
 aliases: ["/ideas"]
+bookHidden: true
 ---
 
 Eine test liste
