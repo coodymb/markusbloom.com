@@ -8,3 +8,5 @@ weight: 2
 # Flow Atoms
 
 *The story of https://www.flowatoms.com*
+
+[Don't miss the beginning of this story](/docs/stay-updated.md)
