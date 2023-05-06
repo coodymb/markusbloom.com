@@ -40,10 +40,10 @@ I need an income - people that pay for my products. To achieve this, I have to o
 
 **In this phase, I have to create as much value as possible while setting up my businesses.**
 
-The big project is [Flow Atoms](/stories/flow-atoms/), though I need some experience to build perfect ○ Atoms. I will create income streams for my business portfolio  (one startup at a time) and test/optimise ○ Atoms through them.
+The big project is [Flow Atoms](/docs/stories/flow-atoms.md), though I need some experience to build perfect ○ Atoms. I will create income streams for my business portfolio  (one startup at a time) and test/optimise ○ Atoms through them.
 
 - The first story: ⛳️ Putter
 
 
 
-**[... to be continued](/stay-updated/)**
+**[... to be continued](/docs/stay-updated.md)**

@@ -7,4 +7,4 @@ weight: 1
 
 # Necessary knowledge, skills, and guides
 
-can all be found at https://flowatoms.com. Over here, I'll tell stories (e.g. [how to build Flow Atoms](/docs/stories/flowatoms/)), not repeat the same guides others have already written.
+can all be found at https://flowatoms.com. Over here, I'll tell stories (e.g. [how to build Flow Atoms](/docs/stories/flow-atoms.md)), not repeat the same guides others have already written.

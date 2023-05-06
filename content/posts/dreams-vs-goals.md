@@ -8,7 +8,7 @@ tags: ['productivity', 'dreams']
 
 # Dreams vs goals
 
-*From: [🌊 Project Oyster](/stories/project-oyster)*
+*From: [🌊 Project Oyster](/docs/stories/project-oyster)*
 
 When I moved to the USA, I decided to make my dreams become a reality, but I have failed to take any significant steps so far. This problem has haunted me for years: I have ideas, but they never become more than a dream.
 
@@ -32,7 +32,7 @@ Dreams will always stay dreams, but I can turn them into actionable goals by def
 
 To make my dreams come true, I have to turn them into goals by defining the desired outcome, filling in the necessary steps, and then following them one by one. These steps are the milestones on the journey towards my goal, and each milestone is a separate goal on its own.
 
-Possible milestones for [🌊 Project Oyster](/stories/project-oyster):
+Possible milestones for [🌊 Project Oyster](/docs/stories/project-oyster.md):
 
 - Launching my first product
 - 1st sale
@@ -46,4 +46,4 @@ I can work towards my dream and eventually reach it by turning it into a simple 
 
 ---
 
-✎ [Dreaming big vs achievable](/posts/dreaming-big-vs-achievable)
+✎ [Dreaming big vs achievable](/posts/dreaming-big-or-achievable.md)

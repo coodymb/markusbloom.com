@@ -9,4 +9,4 @@ weight: 1
 
 🐳
 
-[Don't miss the beginning of this story](/stay-updated/)
+[Don't miss the beginning of this story](/docs/stay-updated.md)

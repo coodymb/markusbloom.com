@@ -9,4 +9,4 @@ description: "How I turn ideas into a reality while documenting experiences, tip
 
 Each story has one goal, and I'm documenting my efforts to reach it, including what helped me along the way. To stay [focussed](/posts/focus), I'll tell one story (besides this blog and [Flow Atoms](https://flowatoms.com/)) at a time, allowing it to grow before jumping to another one.
 
-[Never miss when a story continues](/stay-updated/)
+[Never miss when a story continues](/docs/stay-updated.md)

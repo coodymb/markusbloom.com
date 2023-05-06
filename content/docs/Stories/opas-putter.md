@@ -17,7 +17,8 @@ Opas Putter will be the club I want to have in my bag. A tool that looks great, 
 
 **It's a buy it once and keep it forever product.**
 
-{{< hint [info] >}}
+{{< hint info >}}
+
 **April 2023 - Is it this simple?:**  
 
  Create CAD for a classic putter + on demand mill = a perfect [BIFL](https://www.reddit.com/r/BuyItForLife/) product
@@ -147,4 +148,4 @@ Could I, in theory, go as
 
 
 
-[... to be continued](/stay-updated/)
+[... to be continued](/docs/stay-updated.md)

@@ -9,7 +9,7 @@ tags: ['productivity', 'dreams']
 
 # Dreaming big or achievable
 
-*From: [🌊 Project Oyster](/stories/project-oyster)*
+*From: [🌊 Project Oyster](/docs/stories/project-oyster.md)*
 
 My friend says big goals kill his productivity because reaching them is too unrealistic, though I find them motivating. An insane plan (like crossing the Atlantic Ocean on my yacht) gives purpose to my efforts, and I like imagining the day I reach it. In the end, it's a personal preference that varies from person to person.
 
@@ -23,4 +23,4 @@ The secret, I now suspect, might be the combination of big goals with achievable
 
 ---
 
-✎ [Dreams vs goals](/posts/dreams-vs-goals)
+✎ [Dreams vs goals](/posts/dreams-vs-goals.md)

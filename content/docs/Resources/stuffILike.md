@@ -9,7 +9,7 @@ weight: 2
 
 Things I love/own/want. Following the principle of buying fewer items of high quality to use longer.
 
-Not complete ... [to be continued](/stay-updated/)
+Not complete ... [to be continued](/docs/stay-updated.md)
 
 ## Digital Setup
 
