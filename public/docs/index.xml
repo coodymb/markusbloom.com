@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Markus Bloom</title>
+    <link>https://markusbloom.com/docs/</link>
+    <description>Recent content in Docs on Markus Bloom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2023 08:17:53 -0400</lastBuildDate><atom:link href="https://markusbloom.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stay updated</title>
+      <link>https://markusbloom.com/stay-updated/</link>
+      <pubDate>Wed, 12 Apr 2023 20:58:04 -0400</pubDate>
+      
+      <guid>https://markusbloom.com/stay-updated/</guid>
+      <description>A monthly summary of the stories&amp;rsquo; progress, new blog posts, and random thoughts. Pick your preferred channel:
+Email newsletter # The classic. Remember to click the confirmation link in the email.
+Name Email HP RSS # The RSS feed is here.</description>
+    </item>
+    
+  </channel>
+</rss>
