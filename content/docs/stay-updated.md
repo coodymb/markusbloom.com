@@ -7,7 +7,7 @@ url: /stay-updated
 menu:
   after:
     name: Stay updated
-    weight: 2
+    weight: 3
 description: 'To stay updated on all the projects and stories, they will be summarised in a monthly newsletter sent through email, discord, and RSS.'
 aliases: ["/newsletter"]
 ---
