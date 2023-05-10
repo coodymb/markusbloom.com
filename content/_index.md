@@ -4,4 +4,4 @@ description: "Documenting and telling the story of how I turn my ideas into real
 type: docs
 ---
 
-Documenting the progress towards my life's goals.
+An open notebook.
