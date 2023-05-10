@@ -4,6 +4,7 @@ title: "Focus"
 description: "My biggest weakness is having too many projects at the same time. To increase my productivity and reach my goals, I have to focus on just one thing at a time."
 categories: ['meditations']
 tags: ['productivity']
+aliases: ['/focus']
 ---
 
 # Focus
