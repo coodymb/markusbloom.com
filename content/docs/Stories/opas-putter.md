@@ -10,7 +10,7 @@ weight: 3
 ⛳️ starting a company selling golf putters with 4 hours/week.
 
 - *The first step of [Project Oyster 🌊](/docs/stories/project-oyster.md)*
-- ✎ [How I decided on this idea](putter-vs-habit-tracker)
+- ✎ [How I decided on this idea](/posts/putter-vs-habit-tracker.md)
 
 ## Idea
 

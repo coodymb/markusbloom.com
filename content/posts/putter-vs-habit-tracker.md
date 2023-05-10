@@ -8,7 +8,7 @@ categories: ['journal']
 
 # A putter vs a habit tracker
 
-*What'll [Project Oyster's 🌊](/docs/stories/project-oyster-md) first story be?*
+*What'll [Project Oyster's 🌊](/docs/stories/project-oyster.md) first story be?*
 
 To reach my goals, I'll [focus](/posts/focus.md) on one thing and invest all my time in its growth. To do so, I purged projects I've already started - a painful task because I love all of my ideas and can see a future where they are successful. Though, this future is only in my head.
 
