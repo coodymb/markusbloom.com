@@ -1,5 +1,6 @@
 ---
 title: "Flow Atoms"
+slug: flow-atoms
 description: "The complete story of flow atoms. The idea and concept, execution, and creation of content. Documenting the start of a new business."
 date: 2023-04-16T08:17:53-04:00
 weight: 2

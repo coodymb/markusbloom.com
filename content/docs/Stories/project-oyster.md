@@ -21,6 +21,6 @@ Project Oyster is a random collection of thoughts, experiences, and milestones i
 
 ✎ [Dreams vs Goals](/posts/dreams-vs-goals)
 ✎ [Should I dream big or achievable](/posts/dreaming-big-or-achievable)
-(October 1st 2023) Starting my first project: [Markus has a printer](/docs/markus-has-a-printer)
+(October 1st 2023) Starting my first project: [Markus has a printer](/docs/stories/markus-has-a-printer)
 
 **[... to be continued](/docs/stay-updated.md)**
