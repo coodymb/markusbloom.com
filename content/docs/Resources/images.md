@@ -7,8 +7,6 @@ weight: 4
 
 # Photography
 
-There are too many images on the internet already and not enough people to care about them, though I still want to show off some of mine:
+I love photography, so I don't try turning it into a career. You can use all my images for any non-commercial projects.
 
-[>> Here <<](https://img.markusbloom.com)
-
-[Contact me](mailto:markus@markusbloom.com) if you need the full-resolution files. You can use them for any non-commercial purpose.
+[Contact me](mailto:markus@markusbloom.com) for full-resolution files.

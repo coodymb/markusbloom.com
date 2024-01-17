@@ -11,4 +11,4 @@ aliases: ["/contact"]
 ---
 Email: [markus@markusbloom.com](mailto:markus@markusbloom.com)
 
-Discord: Markus Bloom#2609
+Discord: markusbloom

@@ -7,9 +7,9 @@ weight: 2
 
 # Stuff I Like & Use
 
-Things I love/own/want. Following the principle of buying fewer items of high quality to use longer.
+Things I like/owned/want/. 
 
-Not complete ... [to be continued](/docs/stay-updated.md)
+... [to be continued](/docs/stay-updated.md)
 
 ## Digital Setup
 
@@ -40,7 +40,7 @@ Not complete ... [to be continued](/docs/stay-updated.md)
 
 ### Apps
 
-- [Fabolous](https://www.thefabulous.co/)
+- [Fabulous](https://www.thefabulous.co/)
 - [Anki](https://apps.ankiweb.net/)
 - [Waking Up](https://www.wakingup.com/)
 - [Kindle](https://apps.apple.com/us/app/amazon-kindle/id302584613)
@@ -54,7 +54,7 @@ Not complete ... [to be continued](/docs/stay-updated.md)
 ### OS
 
 - [macOS](https://www.apple.com/macos/)
-- [Debian](https://www.debian.org)
+- [openSUSE](https://www.opensuse.org)
 
 ## Startup stuff
 

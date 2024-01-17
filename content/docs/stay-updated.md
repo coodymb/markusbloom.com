@@ -12,11 +12,9 @@ description: 'To stay updated on all the projects and stories, they will be summ
 aliases: ["/newsletter"]
 ---
 
-A monthly summary of the stories' progress, new blog posts, and random thoughts. Pick your preferred channel:
+A seasonal summary. Pick your preferred channel:
 
 ## Email newsletter
-
-The classic. Remember to click the confirmation link in the email.
 
 {{< newsletterSignup >}}
 
