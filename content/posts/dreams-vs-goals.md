@@ -2,7 +2,7 @@
 date: 2023-05-03
 title: "Dreams vs goals"
 description: "Debating the difference between a dream and a goal. While a dream is an unachievable fantasy, a goal is something tangible to work towards."
-categories: ['meditations']
+categories: ['misc']
 tags: ['productivity', 'dreams']
 aliases: [/dreams-vs-goals]
 ---

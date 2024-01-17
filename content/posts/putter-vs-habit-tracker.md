@@ -2,7 +2,7 @@
 title: "Putter vs Habit Tracker"
 description: "I have two ideas that might be suited for the start of project oyster, and I have to decide which one to pursue."
 date: 2023-05-10T09:32:09-04:00
-categories: ['journal']
+categories: ['log']
 
 ---
 

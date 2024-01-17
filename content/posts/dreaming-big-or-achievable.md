@@ -2,7 +2,7 @@
 date: 2023-05-03
 title: "Dreaming big or achievable"
 description: "The question is whether dreaming too big is good or bad. Does it help my motivation or hinder my motivation and productivity?"
-categories: ['meditations']
+categories: ['misc']
 tags: ['productivity', 'dreams']
 
 ---

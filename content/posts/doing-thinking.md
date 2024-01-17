@@ -2,8 +2,8 @@
 title: "Doing vs thinking"
 description: "I am a master at thinking about my goals and the projects I will pursue, just to then never take a single step. Is a minimal productivity setup the real solution?"
 date: 2023-05-10T09:32:50-04:00
-categories: ['meditations']
-tags: ['productivity', 'minimal productivity', 'minimalism']
+categories: ['misc']
+tags: ['productivity']
 
 
 ---

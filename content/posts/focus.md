@@ -2,7 +2,7 @@
 date: 2023-05-03
 title: "Focus"
 description: "My biggest weakness is having too many projects at the same time. To increase my productivity and reach my goals, I have to focus on just one thing at a time."
-categories: ['meditations']
+categories: ['misc']
 tags: ['productivity']
 aliases: ['/focus']
 ---

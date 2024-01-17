@@ -3,7 +3,7 @@ date: 2023-05-03
 title: "I write too many words"
 slug: too-many-words
 description: 'I always learned to write as many words as possible. But lately, I realised that a writer limits the number of words.'
-categories: ['meditations']
+categories: ['misc']
 tags: ['writing']
 ---
 
